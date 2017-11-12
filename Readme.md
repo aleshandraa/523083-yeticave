@@ -1,7 +1,7 @@
 # Личный проект «YetiCave» 
 
 * Студент: [Александра](https://up.htmlacademy.ru/php/3/user/523083).
-* Наставник: `Неизвестно`.
+* Наставник: Сергей Дорошенков](https://up.htmlacademy.ru/php/3/user/451863).
 
 ---
 
